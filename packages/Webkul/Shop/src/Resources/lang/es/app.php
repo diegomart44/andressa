@@ -570,7 +570,7 @@ return [
 
         'view' => [
             'empty'     => 'Keine Produkte in dieser Kategorie verfügbar',
-            'load-more' => 'Mehr laden',
+            'load-more' => 'Mostrar más',
         ],
     ],
 
@@ -615,9 +615,9 @@ return [
 
                             Datos para depósito o transferencia: Titular: Romy Maribel Sosa Peralta CI: 4926941
                             - Banco Familiar: 48-1311167
-                            - Tu Financiera: 12175574. 
+                           
 
-                            Una vez realizado el deposito o la transferencia, enviar una FOTO o CAPTURA DE PANTALLA del comprobante en el siguiente numero de Whatsapp +595991849117. 
+                            Una vez realizado el deposito o la transferencia, enviar una FOTO o CAPTURA DE PANTALLA del comprobante en el siguiente numero de Whatsapp +595987356438. 
 
                             Pagos confirmados después de las 15:00 tendrán un retraso de un día hábil adicional para la entrega del producto.
 
